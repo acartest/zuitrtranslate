@@ -88,7 +88,7 @@
     <string name="accessibility_wifi_signal_full">Wifi signal full.</string>
     <string name="process_kernel_label">Android OS</string>
     <string name="data_usage_uninstalled_apps">Removed apps</string>
-    <string name="data_usage_uninstalled_apps_users">Removed apps and users</string>
+    <string name="data_usage_uninstalled_apps_users">Removed apaps and users</string>
     <string name="tether_settings_title_usb">USB tethering</string>
     <string name="tether_settings_title_wifi">Portable hotspot</string>
     <string name="tether_settings_title_bluetooth">Bluetooth tethering</string>
